@@ -1,7 +1,7 @@
 package com.company;
 
 public class StrMethod {
-//   a simple method which is only run in StrMethod()S class
+//   a simple method which is only run in StrMethod() class
     public static String myMethod(String name){
      System.out.println(name);
      return name;
