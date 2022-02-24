@@ -21,7 +21,7 @@ public class Cwh_27_Array {
 //            System.out.println( " the current total ius  "+totalFalts);
 //        }
 //    }
-////   the sum of marks
+//   the sum of marks
 //        float total=0.0f;
 //        for (int i =0; i<mark.length; i++){
 //            total += mark[i];
@@ -29,7 +29,7 @@ public class Cwh_27_Array {
 //        float avg = total / mark.length;
 //        System.out.println("the total is :" + total + "& average is : " + avg);
 
-////   find element in array
+//   find element in array
 //        int finding =2;
 //        int[] list={1, 2, 3, 4};
 //
