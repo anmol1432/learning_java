@@ -3,7 +3,7 @@ package com.company;
 public class Cwh_27_Array {
     public static void main(String[] args) {
         String[] name = {"Anmol", "Singh", "Buttar", "dhardeo"};
-        int[] num = {1, 2, 4,3, 5};
+        int[] num = {1, 2, 4, 3, 5};
         int[][] flats = {{1, 2, 3}, {4, 5, 6}};
         float[] mark = {25.4f, 25.3f, 2.2f, 25.1f,3.3f};
 
