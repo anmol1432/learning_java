@@ -35,12 +35,13 @@ public class Cwh_32_method_overloading {
         foo("Anmol Singh");
         System.out.println("the sum of all : " + sumAll(1,2,3,4));
     }
-    static void foo(){
-        System.out.println("hello");
-    } static void foo(String name){
+    static void foo(){System.out.println("hello");}
+    static void foo(String name){
         System.out.println("hello : "+name);
     }
-//    the varargas in java
+
+
+    //    the varargas in java
     static int sumAll(int ...arr){
         int result=0;
 //      ...arr is something like that  int [] arr

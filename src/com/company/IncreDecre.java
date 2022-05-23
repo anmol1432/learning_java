@@ -8,10 +8,10 @@ public class IncreDecre {
 //        out.println(b);
 //        out.println(b);
         System.out.println("ABC");
-        char name = 'a';
+        char name = '0';
         System.out.print(name + " , ");
         for (int i=1; i<26; i = i+1){
-            ++name;
+            name++;
             System.out.print(name + " , ");
         }
     }
